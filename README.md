@@ -1,8 +1,9 @@
-# formuluariohorizon
+<div align="center">
+  <img src="horizon1.png" alt="Deadpool and Wolverine" width="800">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/DevWizardMarcos/formuluariohorizon?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/DevWizardMarcos/formuluariohorizon?style=flat-square)
-![GitHub](https://img.shields.io/github/license/DevWizardMarcos/formuluariohorizon?style=flat-square)
+</div>
+
+
 
 ## 🚀 Sobre o projeto
 
